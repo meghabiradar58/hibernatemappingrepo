@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="shortcut icon" href="./\netflix.png" type="image/x-icon">
+
+<title>Netflix</title>
+<style>
+        #parent{
+    height: 750px;
+    width: 100%;
+    border-top: 3px solid red;
+    display: inline-block;
+    box-sizing: border-box;
+    display: flex;
+    flex-flow: row wrap;
+    background-image: url(./netflix1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+    font-size: large;
+}
+#child1{
+    color: white;
+    margin-left: 400px;
+    margin-top: 100px;
+    text-align: center;
+}
+input[type=email]{
+    height: 15px;
+    width: 580px;
+    padding: 10px;
+    
+}
+input[type=text]{
+    height: 19px;
+    width: 120px;
+    padding: 10px;
+    background-color:red;
+    position: absolute;
+    border: 1px red;
+    text-align: center;
+   color:black;
+  
+}
+#corner{
+    margin-left: 900px;
+    margin-top: 20px;
+}
+select{
+    height: 40px;
+    width: 150px;
+    padding: 10px;
+    margin: 10px;
+    margin-top: -0px;
+    background-color: black;
+    color: white;
+   text-align: center;
+}
+img{
+    margin-left: 90px;
+    margin-top: 40px;
+
+}
+input[type=text]::placeholder{
+    color: white;
+    border: none;
+    cursor: pointer;
+    color:black;
+}
+#box{
+    margin-right: 150px;
+}
+
+input[type=email]{
+    cursor: pointer;
+
+}
+
+input[type=text]{
+    cursor: pointer;
+
+}
+
+    </style>
+</head>
+<body  >
+<form action="ServletNetflix"  method="Get">
+<div id="parent" >
+    <img src="" alt="" height="50px" width="170px">
+    <div id="corner">
+        <select name="English" id="English">
+            <option value="English">English</option>
+            <option value="Hindi">Hindi</option>
+            <option value="Marathi">Marathi</option>
+            <option value="Tamil">Tamil</option>
+            <option value="Telugu">Telugu</option>
+        </select>
+        <input type="text" name="" id="" placeholder="Sign In">
+    </div>
+      <div id="child1">
+        <h1>Unlimited movies, TV <br>
+        shows and more.</h1>
+        <h2>Watch anywhere. Cancel anytime.</h2>
+        <h3>Ready to watch? Enter your email to create or restart your memebership.</h3>
+        <div id="box">
+        <input type="email" name="" id="" placeholder="Email address">
+        <input type="text" name="" id="" placeholder="Get Started ">
+    </div>
+      </div>
+</div> 
+</form>  
+
+</body>
+</html>

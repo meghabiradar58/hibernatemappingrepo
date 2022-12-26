@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.persistence.EntityManagerFactory"/>
+    <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
+    <fullyQualifiedTypeName name="javax.persistence.EntityTransaction"/>
+    <fullyQualifiedTypeName name="org.hibernate.TransactionException"/>
+    <fullyQualifiedTypeName name="com.jspirds.hibernateOneToOOne.dto.WifeDto"/>
+    <fullyQualifiedTypeName name="com.jspirds.hibernateOneToOOne.dto.HusbandDto"/>
+    <fullyQualifiedTypeName name="javax.persistence.OneToOne"/>
+    <fullyQualifiedTypeName name="com.jspirds.hibernateOneToOOne.dto.HusbandDto1"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.x.protobuf.MysqlxCursor.Open"/>
+    <fullyQualifiedTypeName name="com.jspirds.hibernateOneToOneBidirection.dto.HusbandDto1"/>
+    <fullyQualifiedTypeName name="com.jspirds.hibernateOneToMany.dto.CompanyDTO"/>
+    <fullyQualifiedTypeName name="com.jspirds.hibernateOneToMany.dto.EmployeeDto"/>
+    <fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
+    <fullyQualifiedTypeName name="antlr.collections.List"/>
+    <fullyQualifiedTypeName name="com.jspirds.hibernateOneToMany.dto.FatherDTO"/>
+    <fullyQualifiedTypeName name="com.jspirds.hibernateOneToMany.dto.ChildDTO"/>
+    <fullyQualifiedTypeName name="com.jspirds.hibernateOneToMany.dao.FatherChildDAO"/>
+    <fullyQualifiedTypeName name="org.hibernate.annotations.ManyToAny"/>
+    <fullyQualifiedTypeName name="javax.persistence.ManyToMany"/>
+    <fullyQualifiedTypeName name="com.jspirds.hibernateManyTOMany.dto.ProductDTO"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.jspirds.hibernateManyTOMany.dto.CustomerDTO"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="com.jspirds.hibernateManyToManyBI.dto.ProductDTO"/>
+    <fullyQualifiedTypeName name="com.jspirds.hibernateManyToManyBI.dto.CustomerDTO"/>
+    <fullyQualifiedTypeName name="javax.persistence.Persistence"/>
+    <fullyQualifiedTypeName name="org.hibernate.annotations.Columns"/>
+    <fullyQualifiedTypeName name="javax.persistence.JoinTable"/>
+    <fullyQualifiedTypeName name="javax.persistence.JoinColumn"/>
+    <fullyQualifiedTypeName name="javax.persistence.Column"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+</qualifiedTypeNameHistroy>
